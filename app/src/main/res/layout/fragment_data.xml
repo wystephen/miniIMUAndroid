@@ -263,10 +263,10 @@
             android:id="@+id/buttonB"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="UWB"
             android:layout_weight="1"
+            android:text="UWB"
+            android:onClick="ControlClick"
             android:background="@drawable/ic_preference_single_normal" />
-
     </LinearLayout>
 
 </LinearLayout>

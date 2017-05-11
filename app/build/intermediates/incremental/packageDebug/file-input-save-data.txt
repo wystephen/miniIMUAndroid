@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 10 16:20:06 CST 2017
+#Thu May 11 08:43:11 CST 2017
 25.file=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\em.png
 25.base=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.set=ANDROID_RESOURCE

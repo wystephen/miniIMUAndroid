@@ -329,7 +329,7 @@ public class DataMonitor extends FragmentActivity implements OnClickListener {
 		}
 		startActivity(intent);
 	}
-	boolean[] selected = new boolean[]{false,true,true,true,false,false,false,false,false,false,false};
+	boolean[] selected = new boolean[]{false,true,true,true,false,false,false,false,false,false,false,true};
 	String[] SelectItem = new String[]{"时间","加速度","角速度","角度","磁场","端口","气压","经纬度","地速","四元数","卫星数"};
 	public void RefreshButtonStatus(){
 		if (selected[0]) ((TextView)findViewById(R.id.button0)).setTextColor(Color.BLACK); else ((TextView)findViewById(R.id.button0)).setTextColor(Color.GRAY);
@@ -583,6 +583,7 @@ public class DataMonitor extends FragmentActivity implements OnClickListener {
 	}
 	int iCurrentGroup=3;
 	public void ControlClick(View v) {
+		((TextView)findViewById(R.id.uwbShowText)).setText("UWB SLEEPING   ...");
 		switch (v.getId()) {
 			case R.id.button0:
 				if (selected[0]==false) return;
@@ -672,6 +673,14 @@ public class DataMonitor extends FragmentActivity implements OnClickListener {
 				((TextView)findViewById(R.id.tvDataName3)).setText("HDOP：");((TextView)findViewById(R.id.tvNum3)).setText("0");
 				((TextView)findViewById(R.id.tvDataName4)).setText("VDOP：");((TextView)findViewById(R.id.tvNum4)).setText("0");
 				break;
+			case R.id.buttonB:
+				if(selected[11]==false) return;
+				((TextView)findViewById(R.id.uwbShowText)).setText("Try to connected to UWB" +
+						".... ....");
+
+				break;
+
+
 		}
 		((Button) findViewById(R.id.button0)).setBackgroundResource(R.drawable.ic_preference_single_normal);
 		((Button) findViewById(R.id.button1)).setBackgroundResource(R.drawable.ic_preference_single_normal);
