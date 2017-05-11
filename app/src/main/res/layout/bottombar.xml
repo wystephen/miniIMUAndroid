@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:id="@+id/id_ly_bottombar"
+        android:orientation="horizontal"
+        android:background="@drawable/title_bar"
+        android:gravity="center_horizontal|center_vertical"  >
+
+        <Button
+            android:id="@+id/BtnData"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="数据"
+            android:textSize="18sp"
+            android:textColor="#00ff00"
+            android:onClick="onBottomBtnClick"
+            android:background="@drawable/title_btn_right"
+            android:gravity="center_horizontal|center_vertical" />
+        <Button
+            android:id="@+id/BtnRecord"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="记录"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:onClick="onBottomBtnClick"
+            android:background="@drawable/title_btn_right"
+            android:gravity="center_horizontal|center_vertical" />
+
+        <Button
+            android:id="@+id/BtnConfig"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="设置"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:onClick="onBottomBtnClick"
+            android:background="@drawable/title_btn_right"
+            android:gravity="center_horizontal|center_vertical" />
+        <Button
+            android:id="@+id/BtnHelp"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:text="帮助"
+            android:textSize="18sp"
+            android:textColor="#ffffff"
+            android:onClick="onBottomBtnClick"
+            android:background="@drawable/title_btn_right"
+            android:gravity="center_horizontal|center_vertical" />
+
+        
+
+    </LinearLayout>
+
+</LinearLayout>

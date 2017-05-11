@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\em.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\em.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\mpu6050.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\mpu6050.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\prog.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\prog.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jyzk.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\jyzk.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\jy901.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-mdpi\\jy901.png"
+    }
+]

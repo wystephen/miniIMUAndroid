@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\steve\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_86b2fdbe73f6ef1c78fb01edc18f1009a9f643b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7dbc3bf00420d43b631fd4135249c8130a247f7f">
+        <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_54e5625602ffe033d0e0f71efca0bade97eaa1e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4af090a230dfb2b7e0dc7a3a0902c1709002691b\classes.dex" />
+    </item>
+
+</items>

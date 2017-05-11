@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_pressed.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_single_normal.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_pressed.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_normal.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_pressed.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_pressed.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_submenu_normal.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\mm_submenu_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_first_normal.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_normal.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_preference_last_pressed.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_bar.9.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\title_bar.9.png"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

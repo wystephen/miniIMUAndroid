@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:id="@+id/title"
+        android:background="@drawable/title_bar"
+        android:gravity="center_horizontal|center_vertical"  >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="帮助"
+            android:textSize="20sp"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:id="@+id/urlJYZK"
+        android:onClick="URLClick"
+        android:background="@drawable/preference_single_item" >
+        <ImageView
+            android:id="@+id/add_friend"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="fitCenter"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/jyzk" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/add_friend"
+            android:layout_centerVertical="true"
+            android:padding="8dp"
+            android:text="君悦智控\nhttp://RobotControl.taobao.com"
+            android:textSize="15sp"
+            android:textColor="#000" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/mm_submenu" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center_vertical"
+        android:clickable="true"
+        android:id="@+id/urlEM"
+        android:background="@drawable/preference_single_item"
+        android:onClick="URLClick" >
+        <ImageView
+            android:id="@+id/add_friend_shake"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="fitCenter"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/em" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/add_friend_shake"
+            android:layout_centerVertical="true"
+            android:padding="8dp"
+            android:text="电子大师\nhttp://ElecMaster.net"
+            android:textSize="15sp"
+            android:textColor="#000" />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/mm_submenu" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:gravity="center_vertical"
+        android:clickable="false"
+        android:background="@drawable/preference_single_item" >
+        <ImageView
+            android:id="@+id/Verion"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:scaleType="fitCenter"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:src="@drawable/prog" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/Verion"
+            android:layout_centerVertical="true"
+            android:padding="8dp"
+            android:text="关于程序\nV1.2.2"
+            android:textSize="15sp"
+            android:textColor="#000"
+            android:id="@+id/tvVersion" />
+
+    </RelativeLayout>
+
+</LinearLayout>

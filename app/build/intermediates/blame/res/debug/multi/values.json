@@ -1,0 +1,256 @@
+[
+    {
+        "outputFile": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 165,
+                    "endColumn": 45,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 57,
+                    "endOffset": 264
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 269,
+                    "endColumn": 44,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 40,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 355,
+                    "endColumn": 47,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 46,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 44,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 48,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 52,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 44,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 48,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endColumn": 37,
+                    "endOffset": 724
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 729,
+                    "endColumn": 48,
+                    "endOffset": 773
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endColumn": 48,
+                        "endOffset": 1040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 778,
+                    "endColumn": 52,
+                    "endOffset": 826
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 831,
+                    "endColumn": 52,
+                    "endOffset": 879
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 884,
+                    "endColumn": 50,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endColumn": 56,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endColumn": 55,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:id="@+id/title"
+        android:background="@drawable/title_bar"
+        android:gravity="center_vertical"  >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="设置"
+            android:layout_centerInParent="true"
+            android:textSize="20sp"
+            android:textColor="#fff"/>
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:clickable="true"
+        android:background="@drawable/preference_single_item"
+        android:onClick="OnClickSelectIC">
+        <TextView
+            android:id="@+id/IC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="模块型号:"
+            android:textSize="17sp"
+            android:textColor="#000" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="matrix"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/mm_submenu" />
+    </RelativeLayout>
+
+    <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/lljy901" >
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="20dp"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:clickable="true"
+                        android:background="@drawable/preference_first_item"
+                        android:onClick="OnClickConfig"
+                        android:id="@+id/rlOut">
+                        <TextView
+                            android:id="@+id/tvOut"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="输出内容"
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="true"
+                        android:background="@drawable/preference_item"
+                        android:onClick="OnClickRate"
+                        android:id="@+id/rlRate">
+                        <TextView
+                            android:id="@+id/tvRate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="输出速率"
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+                    </RelativeLayout>
+
+
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="true"
+                        android:background="@drawable/preference_item"
+                        android:onClick="OnClickHeight"
+                        android:id="@+id/rlHeight">
+                        <TextView
+                            android:id="@+id/tvHeight"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="高度置0"
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="true"
+                        android:layout_marginBottom="10dp"
+                        android:background="@drawable/preference_last_item"
+                        android:onClick="OnClickReset"
+                        android:id="@+id/rlRST">
+                        <TextView
+                            android:id="@+id/tvDefault"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="恢复默认"
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:clickable="true"
+                        android:background="@drawable/preference_first_item"
+                        android:id="@+id/CalAcc"
+                        android:onClick="OnClickMode">
+                        <TextView
+                            android:id="@+id/tvCaliAcc"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="加速度计校准"
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="X轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvAccX"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Y轴："
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <TextView
+                            android:id="@+id/tvAccY"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:layout_marginBottom="10dp"
+                        android:background="@drawable/preference_last_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Z轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvAccZ"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:clickable="true"
+                        android:background="@drawable/preference_first_item"
+                        android:id="@+id/CalGyro"
+                        android:onClick="OnClickMode">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="陀螺仪校准"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:id="@+id/tvCaliGyro" />
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="X轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvGyroX"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Y轴："
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <TextView
+                            android:id="@+id/tvGyroY"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:layout_marginBottom="10dp"
+                        android:background="@drawable/preference_last_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Z轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvGyroZ"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center_vertical|center_horizontal"
+                        android:clickable="true"
+                        android:background="@drawable/preference_first_item"
+                        android:id="@+id/CalMag"
+                        android:onClick="OnClickMode">
+                        <TextView
+                            android:id="@+id/tvCaliMag"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="磁场校准"
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:scaleType="matrix"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentRight="true"
+                            android:src="@drawable/mm_submenu" />
+
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="X轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvMagX"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:background="@drawable/preference_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Y轴："
+                            android:textSize="17sp"
+                            android:textColor="#000" />
+
+                        <TextView
+                            android:id="@+id/tvMagY"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="40dp"
+                        android:gravity="center_vertical"
+                        android:clickable="false"
+                        android:layout_marginBottom="10dp"
+                        android:background="@drawable/preference_last_item" >
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="Z轴："
+                            android:textSize="17sp"
+                            android:textColor="#000"/>
+
+                        <TextView
+                            android:id="@+id/tvMagZ"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:padding="8dp"
+                            android:text="0"
+                            android:textSize="17sp"
+                            android:textColor="#000"
+                            android:layout_alignParentRight="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </ScrollView>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id = "@+id/lljy61">
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginTop="20dp"
+                android:gravity="center_vertical|center_horizontal"
+                android:clickable="true"
+                android:background="@drawable/preference_first_item"
+                android:onClick="OnClickJY61Rate"
+                android:id="@+id/rlJy61Out">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="输出速率"
+                    android:textSize="17sp"
+                    android:textColor="#000" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/mm_submenu" />
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:gravity="center_vertical"
+                android:clickable="true"
+                android:background="@drawable/preference_last_item"
+                android:onClick="OnClickZeroZ"
+                android:id="@+id/rlZero">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:padding="8dp"
+                    android:text="Z轴初始化"
+                    android:textSize="17sp"
+                    android:textColor="#000" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:scaleType="matrix"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/mm_submenu" />
+            </RelativeLayout>
+
+
+        </LinearLayout>
+        </FrameLayout>
+
+
+
+</LinearLayout>

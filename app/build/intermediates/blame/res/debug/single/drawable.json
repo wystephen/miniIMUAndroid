@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\title_btn_right.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\title_btn_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    }
+]

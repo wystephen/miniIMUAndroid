@@ -1,0 +1,7 @@
+#Wed May 10 16:20:06 CST 2017
+base.0=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_54e5625602ffe033d0e0f71efca0bade97eaa1e5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4af090a230dfb2b7e0dc7a3a0902c1709002691b\\classes.dex
+base.1=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4af090a230dfb2b7e0dc7a3a0902c1709002691b
+file.0=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_54e5625602ffe033d0e0f71efca0bade97eaa1e5\\classes.dex

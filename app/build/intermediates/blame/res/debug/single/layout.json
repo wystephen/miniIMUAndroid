@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_config.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\fragment_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_list.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bottombar.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\bottombar.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_data.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\fragment_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_us.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\fragment_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\datalist.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\datalist.xml"
+    },
+    {
+        "merged": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]
