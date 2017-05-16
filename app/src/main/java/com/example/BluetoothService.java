@@ -410,6 +410,7 @@ public class BluetoothService {
 					}//while (queueBuffer.size() >= 11)
 
 					long lTimeNow = System.currentTimeMillis(); // 获取开始时间
+                    
 					if (lTimeNow - lLastTime > 80) {
 						lLastTime = lTimeNow;
 						Message msg = mHandler.obtainMessage(DataMonitor.MESSAGE_READ);

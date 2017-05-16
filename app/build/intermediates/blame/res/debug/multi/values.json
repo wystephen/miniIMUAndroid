@@ -11,7 +11,14 @@
                     "endOffset": 206
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 45,
+                        "endOffset": 60
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 264
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 57,
+                        "endOffset": 247
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 309
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 44,
+                        "endOffset": 800
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 350
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 845,
+                        "endColumn": 40,
+                        "endOffset": 881
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 398
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 47,
+                        "endOffset": 930
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 445
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 46,
+                        "endOffset": 990
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 490
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 599,
+                        "endColumn": 44,
+                        "endOffset": 639
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 539
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 48,
+                        "endOffset": 593
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 592
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 52,
+                        "endOffset": 188
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 637
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 453,
+                        "endColumn": 44,
+                        "endOffset": 493
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 686
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 499,
+                        "endColumn": 48,
+                        "endOffset": 543
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 724
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 37,
+                        "endOffset": 134
+                    }
                 }
             },
             {
@@ -174,7 +258,14 @@
                     "endOffset": 826
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 52,
+                        "endOffset": 355
+                    }
                 }
             },
             {
@@ -186,7 +277,14 @@
                     "endOffset": 879
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 52,
+                        "endOffset": 301
+                    }
                 }
             },
             {
@@ -198,7 +296,14 @@
                     "endOffset": 930
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 361,
+                        "endColumn": 50,
+                        "endOffset": 407
+                    }
                 }
             },
             {
@@ -210,7 +315,14 @@
                     "endOffset": 987
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endColumn": 56,
+                        "endOffset": 754
+                    }
                 }
             },
             {
@@ -222,7 +334,14 @@
                     "endOffset": 1043
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 645,
+                        "endColumn": 55,
+                        "endOffset": 696
+                    }
                 }
             },
             {
@@ -230,25 +349,41 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 1048,
-                    "endLine": 23,
+                    "endLine": 27,
                     "endColumn": 12,
-                    "endOffset": 1126
+                    "endOffset": 1334
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1131,
-                    "endLine": 26,
+                    "startOffset": 1339,
+                    "endLine": 30,
                     "endColumn": 12,
-                    "endOffset": 1198
+                    "endOffset": 1494
                 },
                 "from": {
-                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
                 }
             }
         ]

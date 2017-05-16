@@ -1,4 +1,0 @@
-#Thu Apr 13 13:29:27 CST 2017
-base.0=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_86b2fdbe73f6ef1c78fb01edc18f1009a9f643b3
-renamed.0=classes.dex
-file.0=C\:\\Users\\steve\\AndroidStudioProjects\\miniIMUAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_86b2fdbe73f6ef1c78fb01edc18f1009a9f643b3\\classes.dex
