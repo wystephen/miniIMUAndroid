@@ -185,6 +185,14 @@ public class UsbService extends Service {
         Log.d("UWB", "onCreate: created uwb service");
         System.out.println("Created UWB service");
 //        write("Start THE UWB SERVICE");
+        File tmp_file = new File("/mnt/sdcard/test_uwb.txt");
+        if(tmp_file.exists())
+        {
+            tmp_file.delete();
+        }
+        long mili_time = System.currentTimeMillis();
+        double now_time = ((double)mili_time) / 1000.0;
+        write(String.format("%.30f \n",now_time));
         this.context = this;
         serialPortConnected = false;
         UsbService.SERVICE_CONNECTED = true;
@@ -204,7 +212,7 @@ public class UsbService extends Service {
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
-        write("Start device");
+//        write("Start device");
         return Service.START_NOT_STICKY;
     }
 
