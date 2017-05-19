@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:1:1-43:12
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:1:1-47:12
 	package
 		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:2:5-26
 		INJECTED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml
@@ -17,6 +17,7 @@ ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\Andr
 		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:1:11-69
 uses-sdk
 ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.felHR85:UsbSerial:4.5] C:\Users\steve\.android\build-cache\e8531f8ec6d5939db10a0a36781280f9ecc6436b\output\AndroidManifest.xml:6:5-8:41
 	android:targetSdkVersion
 		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:8:9-38
 		INJECTED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml
@@ -41,45 +42,57 @@ uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:18:5-81
 	android:name
 		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:18:22-78
+uses-feature#android.hardware.usb.host
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:19:5-20:34
+	android:required
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:20:9-32
+	android:name
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:19:19-59
 application
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:20:5-41:19
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:21:5-45:19
 	android:label
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:23:9-32
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:24:9-32
 	android:allowBackup
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:22:9-35
 	android:icon
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:22:9-39
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:23:9-39
+service#com.example.UsbService
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:25:9-27:19
+	android:enabled
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:26:13-35
+	android:name
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:25:18-44
 activity#com.example.DataMonitor
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:24:9-35:20
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:28:9-39:20
 	android:screenOrientation
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:28:13-49
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:32:13-49
 	android:label
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:33:13-36
 	android:launchMode
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:27:13-44
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:31:13-44
 	android:configChanges
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:26:13-63
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:30:13-63
 	android:theme
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:30:13-55
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:34:13-55
 	android:name
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:25:13-40
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:29:13-40
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:31:13-34:29
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:35:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:32:17-69
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:36:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:33:17-77
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:33:27-74
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:37:27-74
 activity#com.example.DeviceListActivity
-ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:36:9-40:59
+ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:40:9-44:59
 	android:label
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:39:13-50
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:43:13-50
 	android:configChanges
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:38:13-63
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:42:13-63
 	android:theme
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:40:13-56
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:44:13-56
 	android:name
-		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:37:13-47
+		ADDED from C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\src\main\AndroidManifest.xml:41:13-47

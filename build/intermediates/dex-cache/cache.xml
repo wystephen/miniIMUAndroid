@@ -12,11 +12,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\steve\.android\build-cache\e8531f8ec6d5939db10a0a36781280f9ecc6436b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf8f6618922da0b0d6d15d7a954c6b2b76f07bb6">
+        <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a789d3193d36989388edeb5727c433bfb4fa6097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7dbc3bf00420d43b631fd4135249c8130a247f7f">
+        sha1="cdebee94ce61d2fb382aa0be4b289cf4b816c6f9">
         <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_54e5625602ffe033d0e0f71efca0bade97eaa1e5\classes.dex" />
     </item>
     <item
@@ -25,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
         <dex dex="C:\Users\steve\AndroidStudioProjects\miniIMUAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4af090a230dfb2b7e0dc7a3a0902c1709002691b\classes.dex" />
     </item>
 
