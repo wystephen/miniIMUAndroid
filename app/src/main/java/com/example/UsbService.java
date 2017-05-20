@@ -102,7 +102,7 @@ public class UsbService extends Service {
                     String data = new String(arg0, "UTF-8");
                     if (mHandler != null)
                         mHandler.obtainMessage(MESSAGE_FROM_SERIAL_PORT, data).sendToTarget();
-                    Log.d("UWB", "onReceivedData: dataUWB" + data);
+                    Log.d("UWB", "onReceivedData: " + data);
                     Log.i("UWB", "onReceivedData: " + data);
 //                ((TextView)findViewById(R.id.uwbShowText)).setText(data);
                     System.out.println("data is :" + data);
