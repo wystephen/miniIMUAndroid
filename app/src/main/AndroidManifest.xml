@@ -9,7 +9,6 @@
 
     <!-- 读取wifi基站数据-->
 
-
     <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
     <!-- 在SDCard中创建与删除文件权限 -->
